@@ -3,7 +3,9 @@
 ## 📌 Overview
 
 This project analyzes a simulated IMDb-style movie dataset using SQL.  
+
 The dataset tables and data were generated using SQL code based on the tutorial video linked below.
+
 All SQL queries for this project were written and executed using the **Databricks platform**, which provides a collaborative environment for working with data, running SQL queries, and analyzing datasets efficiently.
 
 The goal of this project is to practice writing SQL queries to explore movie data and extract insights such as ratings, genres, and director information.
